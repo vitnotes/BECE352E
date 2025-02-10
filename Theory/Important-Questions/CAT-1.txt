@@ -1,0 +1,14 @@
+IOT DA:
+
+*Module 1:*
+
+Model Development, Data Models 
+Waterfall - Agile (All 4 Models): "Advantages and Application" -> Scenario, Technical Things
+Life Cycle usage in a company
+
+*Module 2:*
+
+Pre-processing -> How you will deal with the data, data cleaning
+Data integration
+Cleaning, Integration, Transformation, Reduction -> All process you need to study
+EDA (Data Pre-processing with EDA)
